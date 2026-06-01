@@ -20,7 +20,7 @@ brew install <formula>
 
 | Formula | Description |
 |---------|-------------|
-| [pureclip](Formula/pureclip.rb) | Accurate detection of RBP interaction sites from eCLIP-seq data |
+| [pureclip2](Formula/pureclip2.rb) | Capturing protein-RNA interaction footprints from single-nucleotide CLIP-seq data ([fork](https://github.com/johan-stph/PureCLIP)) |
 
 ## Updating a Formula
 

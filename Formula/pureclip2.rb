@@ -1,7 +1,7 @@
-class Pureclip < Formula
-  desc "Accurate detection of RBP interaction sites from eCLIP-seq data"
-  homepage "https://github.com/skrakau/PureCLIP"
-  url "https://github.com/skrakau/PureCLIP/archive/refs/tags/v1.3.1.tar.gz"
+class Pureclip2 < Formula
+  desc "Capturing protein-RNA interaction footprints from single-nucleotide CLIP-seq data"
+  homepage "https://github.com/johan-stph/PureCLIP"
+  url "https://github.com/johan-stph/PureCLIP/archive/refs/tags/v1.3.1.tar.gz"
   sha256 "" # TODO: fill in after confirming release tarball sha256
   license "GPL-3.0-or-later"
 
