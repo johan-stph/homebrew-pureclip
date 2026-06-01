@@ -1,8 +1,8 @@
 class Pureclip2 < Formula
   desc "Detect protein-RNA interaction footprints from single-nucleotide CLIP-seq data"
   homepage "https://github.com/johan-stph/PureCLIP"
-  url "https://github.com/johan-stph/PureCLIP/archive/refs/tags/v2.0.1.tar.gz"
-  sha256 "559ca4f673d21a1fa3cc474dda82b2ebee1adf655aaffd48ddd3d69bee1ac6dc"
+  url "https://github.com/johan-stph/PureCLIP/archive/refs/tags/v2.0.2.tar.gz"
+  sha256 "f4cef85fe796a6b8c553717c7b2495f0a04e5801ace9833e904f2a4a737a9f66"
   license "MIT"
 
   depends_on "cmake" => :build
